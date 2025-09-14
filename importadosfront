@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Produtos Importados — Entrega Discreta</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+    h1, h2 { color: #333; }
+    .product { border: 1px solid #ddd; padding: 15px; margin: 20px 0; border-radius: 8px; }
+    .btn { display: inline-block; background: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 10px; }
+    footer { margin-top: 60px; text-align: center; color: #777; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+
+  <h1>📦 Produtos Importados — Entrega Discreta</h1>
+  <p>Compre sem exposição. Enviamos com total sigilo.</p>
+
+  <div class="product">
+    <h2>Relógio Suíço Automático</h2>
+    <img src="https://i.imgur.com/abc123.jpg" alt="Relógio Suíço" width="300">
+    <p>R$ 199,00</p>
+    <a href="https://github.com/lojaimportada/lojaimportada.github.io.git" class="btn">Pedir Agora</a>
+  </div>
+
+  <div class="product">
+    <h2>Óculos de Sol Premium</h2>
+    <img src="https://i.imgur.com/def456.jpg" alt="Óculos" width="300">
+    <p>R$ 129,00</p>
+    <a href="https://github.com/lojaimportada/lojaimportada.github.io.git" class="btn">Pedir Agora</a>
+  </div>
+
+  <div class="product">
+    <h2>Bolsa de Couro Italiano</h2>
+    <img src="https://i.imgur.com/ghi789.jpg" alt="Bolsa" width="300">
+    <p>R$ 249,00</p>
+    <a href="https://github.com/lojaimportada/lojaimportada.github.io.git" class="btn">Pedir Agora</a>
+  </div>
+
+  <footer>
+    © 2025 Loja Importada — Todos os direitos reservados.<br>
+    Pagamento por Pix após confirmação por e-mail.
+  </footer>
+
+</body>
+</html>
